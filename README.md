@@ -1,1 +1,1 @@
-# Disease-detection
+# DiseaseDetection
