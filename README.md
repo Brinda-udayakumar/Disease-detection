@@ -1,3 +1,7 @@
+
+
+
+
 # DiseaseDetection
 
 Web application for detecting **Brain Tumor** and **Tuberculosis** from Brain MRI scans and Chest X-rays using deep learning.
@@ -13,7 +17,9 @@ Both models are deployed in a lightweight web application built with HTML/CSS fo
 
 ## Demo Video
 
-<!-- Paste the auto-generated GitHub video embed link here after uploading -->
+
+
+🎥 [Watch the demo video](https://drive.google.com/file/d/1C4a_mXD8BuONEr_p0sAfaE8CRTPAhDM0/view?usp=sharing)
 
 ## How It Works
 
